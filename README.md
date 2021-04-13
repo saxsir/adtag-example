@@ -1,2 +1,1 @@
-adtag-example
-===
+# adtag-example
